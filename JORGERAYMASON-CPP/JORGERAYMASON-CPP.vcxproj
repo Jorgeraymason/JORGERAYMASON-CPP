@@ -127,13 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CharacterGuessingGame.cpp" />
     <ClCompile Include="Enums.cpp" />
     <ClCompile Include="Files.cpp" />
     <ClCompile Include="JORGERAYMASON-CPP.cpp" />
+    <ClCompile Include="Algorithms.cpp" />
     <ClCompile Include="WordGuessingGame.cpp" />
     <ClCompile Include="Tycoon.cpp" />
     <ClCompile Include="UserManagement.cpp" />
     <ClCompile Include="Quiz.cpp" />
+    <ClCompile Include="DiceGame.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
